@@ -1,0 +1,134 @@
+[
+  {
+    "coverImage": "https://picsum.photos/seed/event1/800/400",
+    "tags": ["Conference", "Technology"],
+    "title": "Tech Innovators Summit",
+    "shortDescription": "A summit for the latest in tech innovations. Join industry leaders as they share insights on cutting-edge advancements and trends in the world of technology.",
+    "longDescription": "Join us for the Tech Innovators Summit, where industry leaders will share insights on the latest technological advancements and trends. Network with peers and explore new opportunities.",
+    "startDate": "2024-08-15",
+    "endDate": "2024-08-17",
+    "ticketPrice": 199.99,
+    "creatorName": "John Smith"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event2/800/400",
+    "tags": ["Music", "Festival"],
+    "title": "Summer Beats Music Festival",
+    "shortDescription": "Experience the best summer music festival with live performances from top artists, a variety of genres, and an unforgettable atmosphere.",
+    "longDescription": "Enjoy live performances from top artists at the Summer Beats Music Festival. A perfect event for music lovers, with a variety of genres and an amazing atmosphere.",
+    "startDate": "2024-07-20",
+    "endDate": "2024-07-22",
+    "ticketPrice": 149.99,
+    "creatorName": "Emily Johnson"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event3/800/400",
+    "tags": ["Workshop", "Photography"],
+    "title": "Photography Masterclass",
+    "shortDescription": "Enhance your photography skills with experts. Learn about composition, lighting, and editing through hands-on sessions and expert guidance.",
+    "longDescription": "Join our Photography Masterclass to learn from professional photographers. Improve your skills in composition, lighting, and editing through hands-on sessions and expert guidance.",
+    "startDate": "2024-09-10",
+    "endDate": "2024-09-12",
+    "ticketPrice": 99.99,
+    "creatorName": "Michael Brown"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event4/800/400",
+    "tags": ["Health", "Wellness"],
+    "title": "Yoga and Wellness Retreat",
+    "shortDescription": "A rejuvenating retreat for mind and body. Enjoy yoga sessions, meditation, and wellness workshops in a serene environment.",
+    "longDescription": "Escape the hustle and bustle of everyday life at our Yoga and Wellness Retreat. Enjoy yoga sessions, meditation, and wellness workshops in a serene environment.",
+    "startDate": "2024-10-05",
+    "endDate": "2024-10-07",
+    "ticketPrice": 249.99,
+    "creatorName": "Jessica Davis"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event5/800/400",
+    "tags": ["Food", "Festival"],
+    "title": "Gourmet Food Festival",
+    "shortDescription": "Taste exquisite dishes from around the world. Indulge in gourmet dishes from renowned chefs and enjoy cooking demonstrations and food-related activities.",
+    "longDescription": "Indulge in a culinary adventure at the Gourmet Food Festival. Sample gourmet dishes from renowned chefs, attend cooking demonstrations, and enjoy a variety of food-related activities.",
+    "startDate": "2024-08-25",
+    "endDate": "2024-08-27",
+    "ticketPrice": 129.99,
+    "creatorName": "David Wilson"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event6/800/400",
+    "tags": ["Art", "Exhibition"],
+    "title": "Contemporary Art Exhibition",
+    "shortDescription": "Explore the latest in contemporary art. View stunning works from emerging and established artists, and engage with the vibrant art community.",
+    "longDescription": "Visit the Contemporary Art Exhibition to view stunning works from emerging and established artists. Discover new perspectives and engage with the vibrant art community.",
+    "startDate": "2024-09-15",
+    "endDate": "2024-09-18",
+    "ticketPrice": 59.99,
+    "creatorName": "Sophia Martinez"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event7/800/400",
+    "tags": ["Business", "Networking"],
+    "title": "Entrepreneurship Networking Event",
+    "shortDescription": "Connect with fellow entrepreneurs and investors. Share ideas, explore potential collaborations, and expand your professional network.",
+    "longDescription": "Join us for an evening of networking and knowledge-sharing at the Entrepreneurship Networking Event. Meet like-minded individuals, share ideas, and explore potential collaborations.",
+    "startDate": "2024-08-30",
+    "endDate": "2024-08-30",
+    "ticketPrice": 49.99,
+    "creatorName": "Daniel Lee"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event8/800/400",
+    "tags": ["Film", "Festival"],
+    "title": "Indie Film Festival",
+    "shortDescription": "Celebrate independent filmmaking. Watch screenings of innovative films, participate in Q&A sessions with filmmakers, and enjoy film-related activities.",
+    "longDescription": "Experience the creativity and diversity of independent cinema at the Indie Film Festival. Watch screenings of innovative films, participate in Q&A sessions with filmmakers, and enjoy a variety of film-related activities.",
+    "startDate": "2024-11-10",
+    "endDate": "2024-11-12",
+    "ticketPrice": 89.99,
+    "creatorName": "Chris Evans"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event9/800/400",
+    "tags": ["Sports", "Marathon"],
+    "title": "City Marathon",
+    "shortDescription": "Run through the heart of the city. Join thousands of runners for a challenging and scenic course through the city's landmarks.",
+    "longDescription": "Join thousands of runners for the annual City Marathon. Whether you're a seasoned marathoner or a first-time participant, this event offers a challenging and scenic course through the city's landmarks.",
+    "startDate": "2024-10-20",
+    "endDate": "2024-10-20",
+    "ticketPrice": 79.99,
+    "creatorName": "Laura Thompson"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event10/800/400",
+    "tags": ["Tech", "Workshop"],
+    "title": "AI and Machine Learning Workshop",
+    "shortDescription": "Dive into the world of AI and ML. Gain practical knowledge and skills through hands-on sessions led by industry experts.",
+    "longDescription": "Learn about the latest advancements in AI and machine learning at this intensive workshop. Gain practical knowledge and skills through hands-on sessions led by industry experts.",
+    "startDate": "2024-09-20",
+    "endDate": "2024-09-22",
+    "ticketPrice": 199.99,
+    "creatorName": "Mark Robinson"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event11/800/400",
+    "tags": ["Literature", "Festival"],
+    "title": "Book Lovers Literary Festival",
+    "shortDescription": "A paradise for book enthusiasts. Meet your favorite authors, attend readings and signings, and discover new literary gems.",
+    "longDescription": "Join fellow book lovers at the Book Lovers Literary Festival. Meet your favorite authors, attend readings and signings, and discover new literary gems in a vibrant and welcoming environment.",
+    "startDate": "2024-08-10",
+    "endDate": "2024-08-12",
+    "ticketPrice": 69.99,
+    "creatorName": "Rachel Green"
+  },
+  {
+    "coverImage": "https://picsum.photos/seed/event12/800/400",
+    "tags": ["Fashion", "Show"],
+    "title": "Spring Fashion Show",
+    "shortDescription": "Witness the latest trends in fashion. See new collections from top designers, enjoy live performances, and mingle with fashion enthusiasts.",
+    "longDescription": "Experience the glamour and excitement of the Spring Fashion Show. See the latest collections from top designers, enjoy live performances, and mingle with fashion enthusiasts.",
+    "startDate": "2024-03-25",
+    "endDate": "2024-03-25",
+    "ticketPrice": 109.99,
+    "creatorName": "Alexandra White"
+  }
+]

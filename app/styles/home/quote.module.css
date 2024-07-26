@@ -1,0 +1,19 @@
+.quote {
+  background-image: url(../../../public/images/quote-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 15rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote > h1 {
+  font-size: 2.8rem;
+  color: transparent;
+  background: linear-gradient(90deg, var(--accent-green), black);
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 2px var(--accent-green);
+}

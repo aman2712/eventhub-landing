@@ -1,0 +1,82 @@
+.testimonials {
+  height: 120vh;
+}
+
+.testimonials > div > h1 {
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 2px var(--accent-green);
+}
+
+.testimonials > div > h5 {
+  color: white;
+}
+
+.testimonials {
+  padding: 2rem 8rem;
+}
+
+.testimonials > div {
+  text-align: left;
+}
+
+.slider {
+  transform-style: preserve-3d;
+  transform: perspective(2000px);
+  width: 100%;
+  animation: autorun 60s linear infinite;
+}
+
+@keyframes autorun {
+  from {
+    transform: perspective(2000px) rotateX(-3deg) rotateY(0deg);
+  }
+
+  to {
+    transform: perspective(2000px) rotateX(-3deg) rotateY(360deg);
+  }
+}
+/* (pos-1)*(360/quant) */
+.slide {
+  background-color: rgb(41, 41, 41);
+  max-width: 18rem;
+  height: 20rem;
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+  position: absolute;
+  inset: 0 0 0 0;
+  transform: rotateY(
+      calc((var(--position) - 1) * (360 / var(--quantity)) * 1deg)
+    )
+    translateZ(400px);
+  margin: 2rem auto 0 auto;
+  border-radius: 0.7rem;
+  border: 1px solid var(--accent-green);
+}
+
+.upper {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.upper > img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 100%;
+}
+
+.upperContent > h3 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.upperContent > h6 {
+  font-weight: 300;
+}
+
+.slide > p {
+  font-size: 0.8rem;
+}
